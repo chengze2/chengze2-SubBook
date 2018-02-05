@@ -1,0 +1,4 @@
+#Mon Feb 05 14:26:50 MST 2018
+base.0=/Users/chengze/code/cmput301/git/chengze2-SubBook/app/build/intermediates/transforms/dex/release/0
+path.0=classes.dex
+renamed.0=classes.dex
