@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">chengze2-SubBook</string>
+    <string name="input_Subscription_Name">Subscription Name(up to 20 characters)</string>
+    <string name="input_Date_Button">YYYY-MM-DD</string>
+    <string name="input_Subscription_Charge">Please input the charge amount</string>
+    <string name="input_Subscription_Comment">Please input your comment(up to 30 characters)</string>
+</resources>
