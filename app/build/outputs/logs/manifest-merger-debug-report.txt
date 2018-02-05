@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a1898e6341c1660c53b5e578443f335a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/chengze/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b748132e5239cb3693e4a6ad8a9d51a8/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/121044bc0484ff17873ca38160f8bf7c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/f2313e6496bdf441286e1f284f0a5ddd/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e502d6c80544c7f3b0369b741184de35/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/45ba8d24e2999e483d06489f681a7e90/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/84fef5ce3c405d7d1f19d6c8917a8f02/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0ac8685296cf811fffabaa14860fb60c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/eef4edf5af64f1fbcc8fbc66c7980a99/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/1fa62cdb8c4211461ff11d90d0e183a5/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/a0bf657751312190a5a30c5ce0a447a4/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml:5:5-25:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a1898e6341c1660c53b5e578443f335a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a1898e6341c1660c53b5e578443f335a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/chengze/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b748132e5239cb3693e4a6ad8a9d51a8/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/chengze/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b748132e5239cb3693e4a6ad8a9d51a8/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/121044bc0484ff17873ca38160f8bf7c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/121044bc0484ff17873ca38160f8bf7c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/f2313e6496bdf441286e1f284f0a5ddd/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/f2313e6496bdf441286e1f284f0a5ddd/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e502d6c80544c7f3b0369b741184de35/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e502d6c80544c7f3b0369b741184de35/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/45ba8d24e2999e483d06489f681a7e90/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/45ba8d24e2999e483d06489f681a7e90/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/84fef5ce3c405d7d1f19d6c8917a8f02/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/84fef5ce3c405d7d1f19d6c8917a8f02/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0ac8685296cf811fffabaa14860fb60c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0ac8685296cf811fffabaa14860fb60c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/eef4edf5af64f1fbcc8fbc66c7980a99/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/eef4edf5af64f1fbcc8fbc66c7980a99/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/1fa62cdb8c4211461ff11d90d0e183a5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/1fa62cdb8c4211461ff11d90d0e183a5/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/a0bf657751312190a5a30c5ce0a447a4/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/a0bf657751312190a5a30c5ce0a447a4/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml:11:9-40
+activity#ca.ualberta.cs.chengze2_subbook.MainActivity
+ADDED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml:16:27-74
+activity#ca.ualberta.cs.chengze2_subbook.AddSubscriptionActivity
+ADDED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml:19:9-24:20
+	android:name
+		ADDED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml:19:19-58
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml:21:13-23:49
+	android:value
+		ADDED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml:23:17-46
+	android:name
+		ADDED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml:22:17-63
+uses-sdk
+INJECTED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml
+INJECTED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a1898e6341c1660c53b5e578443f335a/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a1898e6341c1660c53b5e578443f335a/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/chengze/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b748132e5239cb3693e4a6ad8a9d51a8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/chengze/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b748132e5239cb3693e4a6ad8a9d51a8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/121044bc0484ff17873ca38160f8bf7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/121044bc0484ff17873ca38160f8bf7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/f2313e6496bdf441286e1f284f0a5ddd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/f2313e6496bdf441286e1f284f0a5ddd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e502d6c80544c7f3b0369b741184de35/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e502d6c80544c7f3b0369b741184de35/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/45ba8d24e2999e483d06489f681a7e90/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/45ba8d24e2999e483d06489f681a7e90/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/84fef5ce3c405d7d1f19d6c8917a8f02/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/84fef5ce3c405d7d1f19d6c8917a8f02/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0ac8685296cf811fffabaa14860fb60c/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0ac8685296cf811fffabaa14860fb60c/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/eef4edf5af64f1fbcc8fbc66c7980a99/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/eef4edf5af64f1fbcc8fbc66c7980a99/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/1fa62cdb8c4211461ff11d90d0e183a5/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/1fa62cdb8c4211461ff11d90d0e183a5/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/a0bf657751312190a5a30c5ce0a447a4/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/a0bf657751312190a5a30c5ce0a447a4/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml
+INJECTED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a1898e6341c1660c53b5e578443f335a/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chengze/code/cmput301/git/chengze2-SubBook/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a1898e6341c1660c53b5e578443f335a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/121044bc0484ff17873ca38160f8bf7c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/121044bc0484ff17873ca38160f8bf7c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/f2313e6496bdf441286e1f284f0a5ddd/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/f2313e6496bdf441286e1f284f0a5ddd/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e502d6c80544c7f3b0369b741184de35/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e502d6c80544c7f3b0369b741184de35/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/45ba8d24e2999e483d06489f681a7e90/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/45ba8d24e2999e483d06489f681a7e90/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/84fef5ce3c405d7d1f19d6c8917a8f02/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/84fef5ce3c405d7d1f19d6c8917a8f02/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0ac8685296cf811fffabaa14860fb60c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0ac8685296cf811fffabaa14860fb60c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/eef4edf5af64f1fbcc8fbc66c7980a99/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/eef4edf5af64f1fbcc8fbc66c7980a99/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/1fa62cdb8c4211461ff11d90d0e183a5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/1fa62cdb8c4211461ff11d90d0e183a5/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a1898e6341c1660c53b5e578443f335a/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a1898e6341c1660c53b5e578443f335a/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/a0bf657751312190a5a30c5ce0a447a4/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/a0bf657751312190a5a30c5ce0a447a4/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/chengze/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/a0bf657751312190a5a30c5ce0a447a4/AndroidManifest.xml:26:13-58

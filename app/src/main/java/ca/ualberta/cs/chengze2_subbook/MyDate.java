@@ -11,9 +11,9 @@ package ca.ualberta.cs.chengze2_subbook;
  */
 
 public class MyDate {
-    public int year;
-    public int month;
-    public int day;
+    private int year;
+    private int month;
+    private int day;
 
     /**
      * Constructs a MyDate object for a subscription

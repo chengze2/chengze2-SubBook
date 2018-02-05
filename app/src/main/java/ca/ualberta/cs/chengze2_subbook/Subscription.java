@@ -16,10 +16,10 @@ import java.util.Date;
  */
 
 public class Subscription implements InterfaceSubscription {
-    public String name;
-    public MyDate date;
-    public Double charge;
-    public String comment;
+    private String name;
+    private MyDate date;
+    private Double charge;
+    private String comment;
 
     /**
      * Constructs a subscription object
