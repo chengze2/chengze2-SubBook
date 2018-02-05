@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Feb 05 07:34:04 MST 2018
+#Mon Feb 05 08:59:47 MST 2018
 0.baseType=DIRECTORY
 0.base=/Users/chengze/code/cmput301/git/chengze2-SubBook/app/build/intermediates/transforms/dexMerger/debug/43
 0.path=classes.dex
