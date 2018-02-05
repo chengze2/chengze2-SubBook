@@ -127,13 +127,14 @@ public class MainActivity extends AppCompatActivity {
         super.onStart();
         // load arrayList from file
         loadFromFile();
+        // use for each loop to get the charge sum
         summaryAmount = 0;
         for (Subscription s :  SubscriptionList){
             summaryAmount = summaryAmount + s.getCharge();
         }
         TextView editSummaryAmount = (TextView) findViewById(R.id.summaryAmount);
         DecimalFormat twoDig = new DecimalFormat("#.00");
-        editSummaryAmount.setText("Summary Amount: " + twoDig.format(summaryAmount));
+        editSummaryAmount.setText("Summary Amount: $ " + twoDig.format(summaryAmount));
 
         adapter = new ArrayAdapter<Subscription>(this,
                 R.layout.list_item, SubscriptionList);

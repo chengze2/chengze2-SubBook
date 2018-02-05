@@ -210,5 +210,11 @@ public class AddSubscriptionActivity extends AppCompatActivity {
         }
     };
 
+    // learn and took from https://www.youtube.com/watch?v=7CnhC5-68i4
+    // 2018-02-05
+    // disable the back button to avoid unexpected program quit
+    @Override
+    public void onBackPressed(){
+    }
 
 }

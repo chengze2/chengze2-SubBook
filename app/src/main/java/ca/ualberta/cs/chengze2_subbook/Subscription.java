@@ -51,10 +51,10 @@ public class Subscription implements InterfaceSubscription {
     public String toString() {
         DecimalFormat twoDig = new DecimalFormat("#.00");
         if (comment == null){
-            return name + ": "+ date.getYear() + "-" + date.getMonth() + "-" + date.getDay() + " | " + twoDig.format(charge);
+            return name + ": "+ date.getYear() + "-" + date.getMonth() + "-" + date.getDay() + " | $ " + twoDig.format(charge);
         }
         else{
-            return name + ": "+ date.getYear() + "-" + date.getMonth() + "-" + date.getDay() + " | " + twoDig.format(charge) + " | " + comment;
+            return name + ": "+ date.getYear() + "-" + date.getMonth() + "-" + date.getDay() + " | $ " + twoDig.format(charge) + " | " + comment;
         }
     }
 }
